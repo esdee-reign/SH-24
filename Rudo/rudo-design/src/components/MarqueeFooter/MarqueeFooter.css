@@ -1,0 +1,26 @@
+.marquee-section {
+    margin: 0 !important;
+    position: fixed;
+    bottom: -8px !important;
+}
+
+marquee {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.marquee-highlighted-text-1 {
+    font-weight: 600;
+    color: #FEC55E;
+}
+
+.marquee-highlighted-text-2 {
+    font-weight: 600;
+    color: #E75553;
+}
+
+.marquee-star {
+    padding: 0 24px;
+}

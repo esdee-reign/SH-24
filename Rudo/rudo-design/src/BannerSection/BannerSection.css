@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=swap');
+
+@font-face {
+    font-family: "Vanio";
+    src: url("../assets/Fonts/Vanio/ttf/Vanio-Medium.ttf");
+}
+
+.banner-container {
+    height: 688px;
+}
+
+.banner {
+    width: 1200px;
+    height: 566px;
+    border-radius: 34px;
+    margin: 0 82px;
+    padding: 0 100px;
+}
+
+.banner-1 {
+    position: absolute;
+    z-index: -1;
+    background-color: #173588;
+}
+
+.text-container {
+    text-align: left;
+    margin-top: 120px;
+}
+
+.text-1 {
+    font-size: 42px;
+    color: white;
+    font-family: 'Vanio';
+    line-height: 1;
+}
+
+.text-2 {
+    font-family: 'Epilogue', sans-serif;;
+    font-size: 25px;
+    font-weight: 300 !important;
+    color: white;
+}
+
+.sign-up-btn-container {
+    width: 200px;
+    margin-top: 30px;
+}
+
+.btn-sign-up-1 {
+    background-color: #E75553;
+    color: white;
+    border: solid 2px white;
+    border-radius: 42px;
+    width: 200px;
+    height: 53px;
+    font-size: 20px;
+    box-shadow: 0px 4px 5px 1px #E75553;
+}
+
+.banner-number-container {
+    margin-top: 0 !important;
+}
+
+.banner-number-1 {
+    color: white;
+    font-weight: 900;
+    font-size: 44px;
+    position: absolute;
+    z-index: -1;
+    top: 496px;
+}
+
+.banner-number-2 {
+    color: #A3DECC;
+    font-weight: 900;
+    font-size: 44px;
+    position: absolute;
+    z-index: -1;
+    top: 496px;
+}
+
+.banner-number-3 {
+    color: #FBBEBE;
+    font-weight: 900;
+    font-size: 44px;
+    position: absolute;
+    z-index: -1;
+    top: 496px;
+}
+
+.image1 {
+    position: absolute;
+    top: 276px;
+    right: 40px;
+    width: 724px !important;
+    height: 292px !important;
+}
+
+.banner-2 {
+    position: absolute;
+    margin-top: 40px;
+    z-index: -2;
+    background-color: #4ABE9B;
+}
+
+.banner-3 {
+    position: absolute;
+    z-index: -3;
+    background-color: #F87F7F;
+    margin-top: 80px;
+}

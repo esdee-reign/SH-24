@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@800&display=swap');
+
+.hero-container {
+    height: 1018px;
+    margin: 0 82px;
+}
+
+.nav-bar {
+    height: 121px;
+    padding-top: 33px;
+}
+
+.row {
+    margin: 0px !important;
+}
+
+.logo-container {
+    text-align: left;
+    height: 121px;
+}
+
+#logo {
+    width: 171px;
+    height: 56px;
+}
+
+.sign-up-btn-container {
+    text-align: right;
+    height: 121px;
+}
+
+.btn-sign-up {
+    background-color: #4ABE9A;
+    color: white;
+    border: solid 2px white;
+    border-radius: 42px;
+    width: 200px;
+    height: 53px;
+    font-size: 20px;
+    box-shadow: 0px 4px 25px 1px #F5D4C9;
+}
+
+.hero-section {
+    height: 232px !important;
+}
+
+.statement-container {
+    height: 233px;
+    text-align: start;
+    margin: 180px 0px 0px 0px !important;
+}
+
+.statement {
+    color: black;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 1.2;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.arrow {
+    width: 400px !important;
+    height: 30px;
+}
+
+.text-fun {
+    font-size: 98px;
+    font-weight: 800 !important;
+    color: #4ABE9A;
+}
+
+.hero-banner-section {
+    
+}
+
+.banner-left {
+    padding: 0 !important;
+    position: absolute;
+    left: 0 !important;
+    text-align: left;
+}
+
+.banner-right {
+    padding: 0 !important;
+    position: absolute;
+    right: 0 !important;
+    text-align: right;
+}
+

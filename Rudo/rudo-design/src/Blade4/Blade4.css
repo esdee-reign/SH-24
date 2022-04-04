@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Vanio";
+    src: url("../assets/Fonts/Vanio/ttf/Vanio-Medium.ttf");
+}
+
+.blade4-container {
+    text-align: center;
+    margin-top: 200px;
+    width: 100%;
+    height: 688px;
+}
+
+.heading {
+    position: relative;
+}
+
+.referral {
+    font-family: 'Vanio';
+    font-size: 68px !important;
+    color: black;
+}
+
+.images {
+    position: absolute;
+    top: 0;
+    text-align: center;
+}
+
+.star {
+    text-align: start;
+}
+
+.circle {
+    text-align: end;
+}

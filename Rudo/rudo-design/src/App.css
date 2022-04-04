@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Epilogue);
+ 
+.App {
+  text-align: center;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-y: hidden;
+}
+
+

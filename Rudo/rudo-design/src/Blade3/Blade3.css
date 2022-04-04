@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=swap');
+@font-face {
+    font-family: "Vanio";
+    src: url("../assets/Fonts/Vanio/ttf/Vanio-Medium.ttf");
+}
+
+.blade3-container {
+    width: 1248px;
+    height: 850px;
+}
+
+.top-image-container {
+    text-align: right;
+    width: 100px;
+    height: 80px;
+}
+
+.top-image {
+    width: 100px !important;
+    height: 80px;
+}
+
+.card {
+    margin: 0 46px !important;
+    padding: 0 !important;
+    color: black;
+    height: 517px;
+    border: 1px solid black !important;
+    border-radius: 20px !important;
+}
+
+.card-1 {
+    position: relative;
+    background-color: #FFE4B6 !important;
+    width: 385px !important;
+}
+
+.txt {
+    text-align: left;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.txt-1 {
+    font-family: 'Vanio';
+    font-size: 40px;
+    color: black;
+    line-height: 1; 
+}
+
+.txt-2 {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 300 !important;
+    font-size: 20px;
+    color: black;
+    padding: 0 !important;
+}
+
+.bottom-img-container {
+    position: absolute;
+    left: 12px;
+    bottom: 0px;
+}
+
+.card-2 {
+    background-color: #F87F7F !important;
+    font-size: 40px;
+    width: 190px !important;
+    position: relative;
+}
+
+.invest-smart-container {
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    bottom: 0 !important;
+    right: 20 !important;
+}
+
+.invest-smart {
+    text-align: left;
+    height: 40px;
+    width: 280px;
+    margin: 0 !important;
+    padding: 0 !important;
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 200px;
+    bottom: 160px;
+}
+
+.arrow1 {
+    position: absolute;
+    width: 10px;
+    margin-top: -68px !important;
+    left: 60px;
+}
+
+
+.salary-container {
+    width: 380px;
+    height: 70px;
+    position: absolute;
+    bottom: 0 !important;
+    right: 20 !important;
+}
+
+.salary {
+    text-align: left;
+    height: 40px;
+    width: 280px;
+    margin: 0 !important;
+    padding: 0 !important;
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 200px;
+    bottom: 160px;
+}
+
+.arrow2 {
+    position: absolute;
+    width: 10px;
+    margin-top: -68px !important;
+    left: 140px;
+}
+
+#arr {
+    width: 16px !important; 
+}
+.card-3 {
+    background-color: #7CC8C2 !important;
+    font-size: 40px;
+    width: 190px !important;
+}
+
+.bottom-image-container {
+    text-align: right;
+    width: 100px;
+    height: 80px;
+}
+
+.bottom-image {
+    width: 100px !important;
+    height: 80px;
+    margin-left: 200px;
+}
+
+
